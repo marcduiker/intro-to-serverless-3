@@ -2,6 +2,8 @@
 
 ## About Me
 
+👋 Hi I'm Marc
+
 ## The Premise
 
 ## Tools used

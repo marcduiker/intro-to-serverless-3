@@ -1,0 +1,2 @@
+@text=serverless
+GET https://cataas.com/cat/says/{{text}}

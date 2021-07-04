@@ -1,3 +1,5 @@
 @rootUrl=http://localhost:7071/api/
 GET {{rootUrl}}hackervoice?password=letmein
+
 ###
+GET http://localhost:7071/api/twocats
